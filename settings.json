@@ -1,0 +1,14 @@
+{
+    "editor.wordWrap": "on",
+    "files.autoSaveDelay": 0,
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "onWindowChange",
+    "liveSassCompile.settings.formats": [
+        {
+          "format": "expanded",
+          "extensionName": ".css",
+          "savePath": "/css"
+        }
+      ] ,
+      "explorer.confirmDelete": false
+}
